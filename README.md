@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jay</h1>
+<h1 align="center">Hi 👋, I'm Jay Dobariya</h1>
 <h3 align="center">A passionate AI/ML & Data Science enthusiast from India</h3>
 
 - 🔭 I’m currently working on **Deep Learning**
